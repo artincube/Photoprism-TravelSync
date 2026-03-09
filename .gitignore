@@ -1,0 +1,17 @@
+# Virtual Environments
+venv/
+env/
+
+# Secrets and Local Configuration
+.env
+TravelSync_config.ini
+Photoprism-TravelSync-USER
+
+# Dynamically Generated User Data, Logs, and Trash
+TravelSync_UserData/
+
+# Python Cache
+__pycache__/
+*.pyc
+.DS_Store
+**/.DS_Store
